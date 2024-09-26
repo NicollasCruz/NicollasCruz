@@ -15,24 +15,24 @@
 </div><br>
 
  <h2>Social</h2>
-  <a href="https://www.linkedin.com/in/kaualandi/" height="30" target="_blank">
+  <a href="https://www.linkedin.com/in/nicollas-cruz-34baa71b9/" height="30" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://wa.me/5521999222644" height="30" target="_blank">
+  <a href="https://wa.me/5522992842266" height="30" target="_blank">
     <img src="https://img.shields.io/badge/-Whatsapp-%25d366?style=for-the-badge&logo=Whatsapp&logoColor=white">
   </a>
-  <a href="mailto:eu@kaualf.com" height="30" target="_blank">
+  <a href="mailto:nicollaslopes2903@gmail.com" height="30" target="_blank">
     <img src="https://img.shields.io/badge/-email-c3002f?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://kauaalandi" height="30" target="_blank">
+  <a href="https://www.instagram.com/nickcruz_22/" height="30" target="_blank">
     <img src="https://img.shields.io/badge/-instagram-dc0141?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
 <br><br>
 
 <div>
- <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=kaualandi&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
-  <img height="180em" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaualandi&layout=compact&theme=tokyonight" alt="Souzzs Most Languages" />
+ <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=NicollasCruz&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
+  <img height="180em" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasCruz&layout=compact&theme=tokyonight" alt="Souzzs Most Languages" />
   
 </div>
 
