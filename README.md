@@ -7,9 +7,6 @@
   <img align="center" alt="Vit-Ts" height="30" src="https://img.shields.io/badge/TypeScript-027ad0?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Vit-SasS" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Vit-Angular" height="30" src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Vit-nextjs" height="30" src="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=Next.js3&logoColor=white">
-  <img align="center" alt="Vit-node" height="30" src="https://img.shields.io/badge/NodeJS-7ebe00?style=for-the-badge&logo=node.js&logoColor=fff"/>
-  <img align="center" alt="Vit-nest" height="30" src="https://img.shields.io/badge/nest.js-e0234e?style=for-the-badge&logo=nest.js&logoColor=4FC08D"/>
   <img align="center" alt="Vit-taiwind" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="Vit-mongo" height="30" src="https://img.shields.io/badge/mongodb-116149?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="Vit-mySQL" height="30" src="https://img.shields.io/badge/mySQL-00758f?style=for-the-badge&logo=mySQL&logoColor=white" />
